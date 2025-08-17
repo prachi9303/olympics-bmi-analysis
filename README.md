@@ -114,10 +114,8 @@ streamlit run app.py
 * Include **geographic visualizations** (BMI by country maps)
 * Deploy app on **Streamlit Cloud / Hugging Face**
 
----
 
 # DataAnalytics # DataScience # AthleteAnalytics # Visualization
 
-```
 
 
