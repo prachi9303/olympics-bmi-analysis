@@ -120,8 +120,4 @@ streamlit run app.py
 
 ```
 
----
 
-✅ This is now **professional, neat, and GitHub-optimized**.  
-Would you like me to also prepare a **`requirements.txt`** for you (based on your project’s libraries like pandas, matplotlib, seaborn, plotly, streamlit), so recruiters can run your project without errors?
-```
