@@ -6,7 +6,6 @@
 This project analyzes **Olympic athlete data** with a focus on **Body Mass Index (BMI) trends**.  
 By combining the **120 Years of Olympic History dataset** with a derived **BMI dataset**, it explores how BMI varies across **sports, gender, and time**, providing valuable health and performance insights.
 
-
 ## 🎯 Objectives
 
 - Calculate and analyze BMI of Olympic athletes  
@@ -67,35 +66,39 @@ The project was carried out in six structured steps:
 
 ## 📂 Project Structure
 
+```
+
 olympics-bmi-analysis/
-│── app.py # Streamlit application
-│── requirements.txt # Dependencies
-│── README.md # Documentation
+│── app.py                # Streamlit application
+│── requirements.txt      # Dependencies
+│── README.md             # Documentation
 │
 ├── data/
-│ ├── athlete_bmi_dataset.csv
-│ ├── athlete_events.zip # compressed dataset (<25 MB)
+│   ├── athlete\_bmi\_dataset.csv
+│   ├── athlete\_events.zip   # compressed dataset (<25 MB)
 │
 └── docs/
 └── (optional project notes)
 
+````
+
 ## ⚙️ Installation & Running Locally
 
 ### 1️⃣ Clone this repository
-```
+```bash
 git clone https://github.com/prachi9303/olympics-bmi-analysis.git
 cd olympics-bmi-analysis
-```
+````
 
 ### 2️⃣ Install dependencies
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Streamlit app
 
-```
+```bash
 streamlit run app.py
 ```
 
@@ -105,12 +108,20 @@ streamlit run app.py
 * **Gender differences** in BMI patterns are consistent across decades
 * Over time, **variation in BMI has increased**, showing diverse athletic body types
 
-
 ## 🌟 Future Improvements
 
 * Add **predictive modeling** for BMI & performance
 * Include **geographic visualizations** (BMI by country maps)
 * Deploy app on **Streamlit Cloud / Hugging Face**
 
+---
 
-#DataAnalytics #DataScience #AthleteAnalytics #Visualization
+# DataAnalytics # DataScience # AthleteAnalytics # Visualization
+
+```
+
+---
+
+✅ This is now **professional, neat, and GitHub-optimized**.  
+Would you like me to also prepare a **`requirements.txt`** for you (based on your project’s libraries like pandas, matplotlib, seaborn, plotly, streamlit), so recruiters can run your project without errors?
+```
