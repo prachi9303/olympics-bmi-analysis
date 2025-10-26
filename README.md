@@ -1,7 +1,7 @@
 
-# 🏅 Olympics BMI Analysis
+# Olympics BMI Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes **Olympic athlete data** with a focus on **Body Mass Index (BMI) trends**.  
 By combining the **120 Years of Olympic History dataset** with a derived **BMI dataset**, it explores how BMI varies across **sports, gender, and time**, providing valuable health and performance insights.
